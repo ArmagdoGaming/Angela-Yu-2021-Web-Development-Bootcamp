@@ -1,0 +1,23 @@
+h1
+{
+    color: #66BFBF;
+}
+
+h3
+{
+    color: #66BFBF;
+}
+
+body
+{
+    background-color: #003971;
+}
+
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    width: 25%;
+    border-color: aliceblue;
+    border-width: 5px;
+}
