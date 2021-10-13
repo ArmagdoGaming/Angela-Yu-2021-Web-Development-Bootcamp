@@ -14,7 +14,24 @@ h1
     background-color: aqua;
 }
 
+.peng:hover
+{
+    background-color: black;
+}
+
+.circ{
+    border-radius: 100%;
+}
+
 .lh
 {
     background-color: red;
+}
+
+.lh:hover{
+    background-color: blueviolet;
+}
+
+#cow{
+    border-radius: 50%;
 }
