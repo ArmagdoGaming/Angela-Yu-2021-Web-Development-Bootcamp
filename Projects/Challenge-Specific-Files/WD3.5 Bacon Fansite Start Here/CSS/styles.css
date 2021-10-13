@@ -9,7 +9,12 @@ h1
     font-family: 'Courier New', Courier, monospace;
 }
 
-img
+.peng
 {
     background-color: aqua;
+}
+
+.lh
+{
+    background-color: red;
 }
