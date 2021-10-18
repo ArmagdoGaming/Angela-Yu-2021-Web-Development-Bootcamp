@@ -1,4 +1,4 @@
-div
+.top
 {
     background-color: aliceblue;
 }
@@ -12,4 +12,18 @@ h1
 body
 {
     margin: 0;
+}
+
+.middle
+{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+}
+
+.bottom
+{
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
 }
