@@ -32,6 +32,17 @@ a
     color: #11999E;
 }
 
+
+.top
+{
+    background-color: aliceblue;
+    
+    position: relative;
+    padding-top: 100px;
+
+    line-height: 2em;
+}
+
 .per
 {
     text-decoration: underline;
@@ -55,12 +66,5 @@ a
 {
     font-size: 2.5rem;
     color: #66BFBF;
-}
-
-.top
-{
-    background-color: aliceblue;
-    
-    position: relative;
-    padding-top: 100px;
+    font-weight: normal;
 }
